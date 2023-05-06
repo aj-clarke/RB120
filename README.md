@@ -16,4 +16,4 @@
 - [lecture (practice problems): classes and objects](https://github.com/aj-clarke/RB120/tree/main/lesson_2/02_lecture_classes_n_objects)
 
 ### Links to exercises (placeholder for now):
-- [easy1](https://github.com/aj-clarke/RB120/tree/main/small_problems/easy1)
+- [oo basics classes and objects 1](https://github.com/aj-clarke/RB120/tree/main/exercises/oo_basics_classes_and_objects_1)
