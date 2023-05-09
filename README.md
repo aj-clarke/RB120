@@ -4,8 +4,8 @@
 
 ## [Lesson 1](https://github.com/aj-clarke/RB120/tree/main/lesson_1)
 ### Object Oriented Programing book and corresponding examples/exercises:
-- [the object model](https://github.com/aj-clarke/RB120/tree/main/OOP_book_examples_and_exercises/01_the_object_model)
-- [classes and objects I](https://github.com/aj-clarke/RB120/tree/main/OOP_book_examples_and_exercises/02_classes_and_objects_i)
+- [the object model](https://github.com/aj-clarke/RB120/tree/main/lesson_1/02_oop_book_examples_and_exercises/01_the_object_model)
+- [classes and objects I](https://github.com/aj-clarke/RB120/tree/main/lesson_1/02_oop_book_examples_and_exercises/02_classes_and_objects_i)
 - [classes and objects II](https://github.com/aj-clarke/RB120/tree/main/lesson_1/02_oop_book_examples_and_exercises/03_classes_and_objects_ii)
 - [inheritance](https://github.com/aj-clarke/RB120/tree/main/lesson_1/02_oop_book_examples_and_exercises/04_inheritance)
 
