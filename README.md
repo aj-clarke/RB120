@@ -16,6 +16,8 @@
 - [lecture (practice problems): classes and objects](https://github.com/aj-clarke/RB120/tree/main/lesson_2/02_lecture_classes_n_objects)
 - [lecture (practice problems): inheritance](https://github.com/aj-clarke/RB120/tree/main/lesson_2/04_lecture_inheritance)
 - [lecture (examples): polymorphism and encapsulation](https://github.com/aj-clarke/RB120/tree/main/lesson_2/06_lecture_polymorphism_n_encapsulation)
+- [lecture (examples): collaborator objects](https://github.com/aj-clarke/RB120/tree/main/lesson_2/09_lecture_collaborator_objects)
+
 
 ## [RB120 Exercises](https://github.com/aj-clarke/RB120/tree/main/exercises)
 - [oo basics classes and objects 1](https://github.com/aj-clarke/RB120/tree/main/exercises/oo_basics_classes_and_objects_1)
