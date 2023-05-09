@@ -17,6 +17,7 @@
 - [lecture (practice problems): inheritance](https://github.com/aj-clarke/RB120/tree/main/lesson_2/04_lecture_inheritance)
 - [lecture (examples): polymorphism and encapsulation](https://github.com/aj-clarke/RB120/tree/main/lesson_2/06_lecture_polymorphism_n_encapsulation)
 - [lecture (examples): collaborator objects](https://github.com/aj-clarke/RB120/tree/main/lesson_2/09_lecture_collaborator_objects)
+- [lecture (example): modules](https://github.com/aj-clarke/RB120/tree/main/lesson_2/10_lecture_modules)
 
 
 ## [RB120 Exercises](https://github.com/aj-clarke/RB120/tree/main/exercises)
