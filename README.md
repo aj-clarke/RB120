@@ -25,3 +25,4 @@
 - [oo basics classes and objects 2](https://github.com/aj-clarke/RB120/tree/main/exercises/oo_basics_classes_and_objects_2)
 - [oo basics inheritance](https://github.com/aj-clarke/RB120/tree/main/exercises/oo_basics_inheritance)
 - [oo basics accessor methods](https://github.com/aj-clarke/RB120/tree/main/exercises/oo_basics_accessor_methods)
+- [easy 1](https://github.com/aj-clarke/RB120/tree/main/exercises/easy_1)
