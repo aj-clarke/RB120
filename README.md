@@ -19,6 +19,16 @@
 - [lecture (examples): collaborator objects](https://github.com/aj-clarke/RB120/tree/main/lesson_2/09_lecture_collaborator_objects)
 - [lecture (example): modules](https://github.com/aj-clarke/RB120/tree/main/lesson_2/10_lecture_modules)
 
+## [Lesson 3](https://github.com/aj-clarke/RB120/tree/main/lesson_3)
+- [inheritance and variable scope](https://github.com/aj-clarke/RB120/tree/main/lesson_3/04_inheritance_n_variable_scope)
+- [fake operators](https://github.com/aj-clarke/RB120/tree/main/lesson_3/05_fake_operators)
+
+## [Lesson 4](https://github.com/aj-clarke/RB120/tree/main/lesson_4)
+- [easy 1](https://github.com/aj-clarke/RB120/tree/main/lesson_4/02_easy_1)
+- [easy 2](https://github.com/aj-clarke/RB120/tree/main/lesson_4/03_easy_2)
+- [easy 3](https://github.com/aj-clarke/RB120/tree/main/lesson_4/04_easy_3)
+- [medium 1](https://github.com/aj-clarke/RB120/tree/main/lesson_4/05_medium_1)
+- [hard 1](https://github.com/aj-clarke/RB120/tree/main/lesson_4/06_hard_1)
 
 ## [RB120 Exercises](https://github.com/aj-clarke/RB120/tree/main/exercises)
 - [oo basics classes and objects 1](https://github.com/aj-clarke/RB120/tree/main/exercises/oo_basics_classes_and_objects_1)
